@@ -1,0 +1,10 @@
+javax:
+  validation:
+    constraints:
+      NotEmpty:
+        message: Campo vazio ou nulo.
+
+erro_credencial: Credencial inválida.
+json_invalido: Json inválido.
+token_expirado: Token expirado.
+token_invalido: Token inválido.
